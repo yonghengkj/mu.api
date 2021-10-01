@@ -1,0 +1,85 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://xcdn.php.cn/js/html5/%E5%85%A8%E5%B1%8F%E7%9A%843D%E6%82%AC%E6%B5%AE%E7%B2%92%E5%AD%90%E7%BF%BB%E8%BD%AC%E5%8A%A8%E6%95%88/index.html?sign=cec31b3adf6c427b6197b7fed1113a16%C3%97tamp=1633084171",
+            "path": "index.html",
+            "saved": true,
+            "size": 9041,
+            "children": [
+                {
+                    "url": "https://xcdn.php.cn/js/html5/%E5%85%A8%E5%B1%8F%E7%9A%843D%E6%82%AC%E6%B5%AE%E7%B2%92%E5%AD%90%E7%BF%BB%E8%BD%AC%E5%8A%A8%E6%95%88/js/three.min.js",
+                    "path": "js/three.min.js",
+                    "saved": true,
+                    "size": 419938,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "xcdn-php-cn-jhmy8hpl",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://xcdn.php.cn/js/html5/%E5%85%A8%E5%B1%8F%E7%9A%843D%E6%82%AC%E6%B5%AE%E7%B2%92%E5%AD%90%E7%BF%BB%E8%BD%AC%E5%8A%A8%E6%95%88/index.html?sign=cec31b3adf6c427b6197b7fed1113a16%C3%97tamp=1633084171",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://xcdn.php.cn/js/html5/%E5%85%A8%E5%B1%8F%E7%9A%843D%E6%82%AC%E6%B5%AE%E7%B2%92%E5%AD%90%E7%BF%BB%E8%BD%AC%E5%8A%A8%E6%95%88/index.html?sign=cec31b3adf6c427b6197b7fed1113a16%C3%97tamp=1633084171",
+            "statusCode": 200,
+            "headers": {
+                "date": "Fri, 01 Oct 2021 10:31:15 GMT",
+                "content-type": "text/html",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "server": "marco/2.14",
+                "x-request-id": "8793533b7ed4aecb8ee11d07335835a9",
+                "x-source": "U/304",
+                "x-upyun-content-length": "9423",
+                "etag": "W/\"9a3b9f27188256841a2b655be73a761d\"",
+                "x-upyun-content-type": "text/html",
+                "last-modified": "Mon, 09 Aug 2021 01:29:21 GMT",
+                "expires": "Tue, 05 Oct 2021 13:15:45 GMT",
+                "cache-control": "max-age=691200",
+                "via": "T.201.H, V.403-zj-fud-200, S.ntt-cn-hkg1-229, T.229.N, V.ntt-cn-hkg1-228, M.ntt-cn-hkg1-232",
+                "x-via": "1.1 PSrbdjTYO3sc112:4 (Cdn Cache Server V2.0)",
+                "x-ws-request-id": "6156e373_PSrbdjTYO3qp114_221519-25890"
+            }
+        },
+        "time": {
+            "start": "2021-10-01T10:31:11.566Z",
+            "end": "2021-10-01T10:31:16.397Z"
+        },
+        "remark": [],
+        "ip": "14.0.44.208",
+        "url": "https://xcdn.php.cn/js/html5/%E5%85%A8%E5%B1%8F%E7%9A%843D%E6%82%AC%E6%B5%AE%E7%B2%92%E5%AD%90%E7%BF%BB%E8%BD%AC%E5%8A%A8%E6%95%88/index.html?sign=cec31b3adf6c427b6197b7fed1113a16%C3%97tamp=1633084171",
+        "main": "index.html",
+        "domain": "xcdn.php.cn",
+        "origin": "https://xcdn.php.cn",
+        "totalSize": "429 kB"
+    },
+    "options": {
+        "formatter": [
+            "saveOriginal"
+        ],
+        "url": "https://xcdn.php.cn/js/html5/%E5%85%A8%E5%B1%8F%E7%9A%843D%E6%82%AC%E6%B5%AE%E7%B2%92%E5%AD%90%E7%BF%BB%E8%BD%AC%E5%8A%A8%E6%95%88/index.html?sign=cec31b3adf6c427b6197b7fed1113a16%C3%97tamp=1633084171",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
